@@ -1,4 +1,3 @@
-# Ку,  я Ромка
+# Welcome My GitHub my dear
 
-## Обо мне
-- 💻 Начинающий Разработчик, изучающий JavaScript, Python, C#
+## My name is Roman and I studying Python and JavaScript

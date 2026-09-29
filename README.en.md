@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/romanich237.dev-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://romanich237.dev)
 [![Telegram](https://img.shields.io/badge/@CBOE_MEHECTEPCTBO-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CBOE_MEHECTEPCTBO)
-[![Email](https://img.shields.io/badge/help@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:help@romanich237.dev)
+[![Email](https://img.shields.io/badge/help@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:github@romanich237.dev)
 
 [🇷🇺 Русский](README.md) · **🇬🇧 English**
 
@@ -42,7 +42,7 @@ I don't publish here often — most of my projects live on the [website](https:/
 
 <div align="center">
 
-📬 **Telegram:** [@CBOE_MEHECTEPCTBO](https://t.me/CBOE_MEHECTEPCTBO) · **Email:** [help@romanich237.dev](mailto:help@romanich237.dev)
+📬 **Telegram:** [@CBOE_MEHECTEPCTBO](https://t.me/CBOE_MEHECTEPCTBO) · **Email:** [help@romanich237.dev](mailto:github@romanich237.dev)
 
 <sub>Open to interesting ideas and challenges — drop a message if there's something to discuss.</sub>
 

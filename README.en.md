@@ -2,48 +2,55 @@
 
 # Kirill
 
-**Developer from Russia · Telegram & VK bots · Web services · Integrations**
+**Building bots and web services**
 
 [![Website](https://img.shields.io/badge/romanich237.dev-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://romanich237.dev)
-[![Telegram](https://img.shields.io/badge/@CBOE_MEHECTEPCTBO-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CBOE_MEHECTEPCTBO)
-[![Email](https://img.shields.io/badge/help@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:github@romanich237.dev)
+[![Telegram](https://img.shields.io/badge/@femboychik237-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/femboychik237)
+[![Email](https://img.shields.io/badge/github@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:github@romanich237.dev)
 
-[🇷🇺 Русский](README.md) · **🇬🇧 English**
+**English** · [Русский](README.md)
 
 </div>
 
----
+## About me
 
-Hi 👋
+Hi! I'm Kirill. I started with VK bots, then moved on to Telegram and web services. I mostly write JavaScript and occasionally use Python.
 
-My name is Kirill. I started out building bots — first for VK, then for Telegram. These days I spend most of my time learning: JavaScript, sometimes Python. I enjoy projects that require both writing code and actually thinking things through.
+I learn by building my own projects: coming up with features, exploring new tools, and improving things people already use. I enjoy working on both the code and the way a project is structured and feels to use.
 
-Almost everything I build lives on [**romanich237.dev**](https://romanich237.dev) — portfolio, projects, and everything else.
+## What I do
 
----
+- Build Telegram bots — from simple commands to full-featured services
+- Develop websites, user dashboards, and admin panels
+- Connect services through APIs, integrate payments, and set up email with Postfix
+- Deploy projects on Linux and configure Nginx, PM2, and automatic updates
+- Keep improving my projects: add features, fix bugs, and simplify interfaces
 
-### 🛠 Stack
+## Tech stack
 
-| | |
+| Area | Technologies |
 |---|---|
-| **Languages** | JavaScript · Python · HTML · CSS |
-| **Backend** | Node.js · Express · SQLite |
-| **Bots** | Telegram · VK |
-| **Integrations** | Payment systems |
-| **Tools** | Git · Nginx |
+| Languages | JavaScript · Python · HTML · CSS |
+| Backend | Node.js · Express |
+| Databases | SQLite |
+| Bots | Telegram · VK |
+| Email | Postfix · SMTP |
+| Tools | Git · Linux · Nginx · PM2 |
 
----
+## Projects
 
-### 📌 About GitHub
+### [Cyxapuk Download](https://t.me/CyxapukDownloadBot)
 
-I don't publish here often — most of my projects live on the [website](https://romanich237.dev) or in private repositories. If something caught your eye, it's best to check there or reach out directly.
+A Telegram bot for downloading videos, photos, and music from links across multiple platforms. A project I'm especially proud of: I keep developing it, adding new sources, and making it easier to use.
 
----
+### [Cyxapuk Mail](https://t.me/CyxapukMailBot)
 
-<div align="center">
+An email bot for Telegram. This project involves working with email infrastructure and Postfix integration.
 
-📬 **Telegram:** [@CBOE_MEHECTEPCTBO](https://t.me/CBOE_MEHECTEPCTBO) · **Email:** [help@romanich237.dev](mailto:github@romanich237.dev)
+### [MAX → Telegram](https://github.com/romanich237/max_bot)
 
-<sub>Open to interesting ideas and challenges — drop a message if there's something to discuss.</sub>
+A bot that forwards messages from MAX to Telegram. It runs on your own server and stores data in a local database. The source code is available in the repository.
 
-</div>
+You can find my projects and live services at **[romanich237.dev](https://romanich237.dev)**. I publish some of the source code here and keep the rest in private repositories.
+
+If you'd like to learn more about a project or share an idea, message me on [Telegram](https://t.me/femboychik237).

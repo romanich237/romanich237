@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
 
-# Kirill
+# Roman
 
-**Building bots and web services**
+Building Telegram bots, websites and various services
 
 [![Website](https://img.shields.io/badge/romanich237.dev-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://romanich237.dev)
 [![Telegram](https://img.shields.io/badge/@femboychik237-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/femboychik237)
-[![Email](https://img.shields.io/badge/github@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:github@romanich237.dev)
+[![Email](https://img.shields.io/badge/help@romanich237.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:help@romanich237.dev)
 
 **English** · [Русский](README.md)
 
@@ -14,43 +14,48 @@
 
 ## About me
 
-Hi! I'm Kirill. I started with VK bots, then moved on to Telegram and web services. I mostly write JavaScript and occasionally use Python.
+Hi! I'm Roman, a developer working on my own projects
 
-I learn by building my own projects: coming up with features, exploring new tools, and improving things people already use. I enjoy working on both the code and the way a project is structured and feels to use.
+It all started with a few simple VK bots, then I moved on to Telegram. These days, I work on different kinds of services, from bots and Mini Apps to full web applications with APIs, databases and payment systems
 
-## What I do
+My main programming language is JavaScript, and I mostly work with Node.js. I also use Python. I manage my own servers, work with infrastructure and mail systems, and take care of everything needed to keep my projects running
 
-- Build Telegram bots — from simple commands to full-featured services
-- Develop websites, user dashboards, and admin panels
-- Connect services through APIs, integrate payments, and set up email with Postfix
-- Deploy projects on Linux and configure Nginx, PM2, and automatic updates
-- Keep improving my projects: add features, fix bugs, and simplify interfaces
+I enjoy more than just writing code. I like taking an idea and turning it into something people can actually use
 
-## Tech stack
+## Technologies
 
-| Area | Technologies |
+| Category | Technologies |
 |---|---|
-| Languages | JavaScript · Python · HTML · CSS |
-| Backend | Node.js · Express |
+| Languages | JavaScript, Python, HTML, CSS |
+| Backend | Node.js, Express |
 | Databases | SQLite |
-| Bots | Telegram · VK |
-| Email | Postfix · SMTP |
-| Tools | Git · Linux · Nginx · PM2 |
+| Telegram | Bot API, Mini Apps |
+| APIs | REST API, Webhooks |
+| Mail | Postfix, SMTP, IMAP, POP3 |
+| Servers | Linux, Nginx, PM2 |
+| Tools | Git, GitHub |
 
 ## Projects
 
-### [Cyxapuk Download](https://t.me/CyxapukDownloadBot)
+### Telegram
 
-A Telegram bot for downloading videos, photos, and music from links across multiple platforms. A project I'm especially proud of: I keep developing it, adding new sources, and making it easier to use.
+- **[Cyxapuk Mail](https://t.me/CyxapukMailBot)** - creating mailboxes and receiving emails through Telegram
+- **[Cyxapuk SMS](https://t.me/CyxapukSMSBot)** - Telegram account marketplace with country and account type selection
+- **[Cyxapuk Stars](https://t.me/CyxapukStarsBot)** - buying Telegram Stars
+- **[Cyxapuk Films](https://t.me/CyxapukFilmsBot)** - movies and TV shows on Telegram
+- **[Cyxapuk Download](https://t.me/CyxapukDownloadBot)** - downloading videos, photos and music from various platforms
+- **[Cyxapuk Delete](https://t.me/CyxapukDeleteBot)** - viewing deleted Telegram messages
+- **[Armenian Translator](https://t.me/BarevAiBot)** - translating between Armenian and Russian
+- **[Sukhar Host](https://t.me/CyxapukHostBot)** - managing and ordering VPS servers through Telegram
+- **[IP Info](https://t.me/CyxapukAnalyzeApp)** - IP address and domain lookup, including DNS, ASN and other network information
 
-### [Cyxapuk Mail](https://t.me/CyxapukMailBot)
+### Other projects
 
-An email bot for Telegram. This project involves working with email infrastructure and Postfix integration.
+- **[MAX → Telegram](https://github.com/romanich237/max_bot)** - forwarding messages from MAX to Telegram
 
-### [MAX → Telegram](https://github.com/romanich237/max_bot)
+## Links
 
-A bot that forwards messages from MAX to Telegram. It runs on your own server and stores data in a local database. The source code is available in the repository.
-
-You can find my projects and live services at **[romanich237.dev](https://romanich237.dev)**. I publish some of the source code here and keep the rest in private repositories.
-
-If you'd like to learn more about a project or share an idea, message me on [Telegram](https://t.me/femboychik237).
+- Website: [romanich237.dev](https://romanich237.dev)
+- GitHub: [romanich237](https://github.com/romanich237)
+- Telegram: [@femboychik237](https://t.me/femboychik237)
+- Email: [help@romanich237.dev](mailto:help@romanich237.dev)
